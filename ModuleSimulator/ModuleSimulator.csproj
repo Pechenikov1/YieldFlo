@@ -12,6 +12,7 @@
     <AssemblyName>ModuleSimulator</AssemblyName>
     <RootNamespace>ModuleSimulator</RootNamespace>
     <ApplicationIcon>..\YieldFlo\YieldFlo2.ico</ApplicationIcon>
+    <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
 </Project>
